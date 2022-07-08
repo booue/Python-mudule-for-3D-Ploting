@@ -11,4 +11,5 @@ This repo contains several python modules for 3D plotting including mayavi,pyope
   + 项目文件：pdf文件，md文件
   + 附录图片：md文档中图片
   
-# csdn连接：https://blog.csdn.net/DALEONE/article/details/125655030?spm=1001.2014.3001.5501
+# csdn连接：
+https://blog.csdn.net/DALEONE/article/details/125655030?spm=1001.2014.3001.5501
