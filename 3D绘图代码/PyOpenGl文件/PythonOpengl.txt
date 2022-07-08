@@ -1,0 +1,65 @@
+### 借助于Python完成3D渲染
+
+
+> Date:2022.2.28
+>
+> Author:qyan.li
+>
+> Reference:https://blog.csdn.net/xufive/article/details/86565130
+
+#### 一、准备工作
+
++ pyopengl安装：
+
+    1. 参考文献：https://blog.csdn.net/xufive/article/details/86565130
+
+        > 1. 下载镜像文件： https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyopengl
+        >
+        > 2. 遇到问题：This file is not a supported file on this platform
+        >
+        > 3. 解决方案：https://www.jianshu.com/p/531c4fdbb493
+        >    
+        >    解决方法：下载与python版本对应的镜像文件
+
++ opengl学习
+
+
+
+VTK可视化工具包
+
+
+
+1. 其他的可视化python库(绘制3D图形)：
+Vispy(v)
+PyQtgraph
+mayavi(v)
+pyvista    参考文献：https://blog.csdn.net/u012925804/article/details/105271414
+2. 基于python的动画制作：
+MoviePy (v)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+povary学习参考文献：https://segmentfault.com/a/1190000011868155
+
+python可视化库参考文献：https://www.cnblogs.com/arxive/p/10100143.html
+                       https://zhuanlan.zhihu.com/p/388006034
+
+python动画制作：https://zhuanlan.zhihu.com/p/36727011
